@@ -1,0 +1,11 @@
+header{
+  background-color: #2A2A2A;
+  padding: 16px 160px
+}
+nav{
+  display: inline-block;
+  vertical-align: top;
+  float: right;
+  padding-top: 16px
+
+}
