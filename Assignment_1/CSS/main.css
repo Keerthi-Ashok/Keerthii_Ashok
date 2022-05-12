@@ -6,7 +6,7 @@ header {
   padding-right: 200px;
 }
 
-header>div {
+header div {
   display: flex;
   justify-content: space-between;
 }
