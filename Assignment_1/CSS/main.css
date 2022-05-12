@@ -342,15 +342,15 @@ h8 {
   width: 165px;
   font-size: 24px;
   font-family: "calibri"
-  margin: 0 auto;
+    margin: 0 auto;
   text-transform: capitalize;
-    color: white;
-    padding: 15px 0px 15px 50px;
-    background-color: #107698;
-    border: 2px solid #FDB530;
-    border-radius: 4px;
-    -webkit-box-shadow: 0px 3px 5px 0px rgb(0 0 0 / 50%);
-    box-shadow: 0px 3px 5px 0px rgb(0 0 0 / 50%);
+  color: white;
+  padding: 15px 0px 15px 50px;
+  background-color: #107698;
+  border: 2px solid #FDB530;
+  border-radius: 4px;
+  -webkit-box-shadow: 0px 3px 5px 0px rgb(0 0 0 / 50%);
+  box-shadow: 0px 3px 5px 0px rgb(0 0 0 / 50%);
 }
 
 .info5 {
@@ -367,10 +367,10 @@ h8 {
 }
 
 footer {
-    padding: 40px 0;
-    background-color: #504f4f;
-    text-align: center;
-    color: #c7c5c5;
-    font-size: 18px;
-    line-height: 1.4;
-    display: block;
+  padding: 40px 0;
+  background-color: #504f4f;
+  text-align: center;
+  color: #c7c5c5;
+  font-size: 18px;
+  line-height: 1.4;
+  display: block;

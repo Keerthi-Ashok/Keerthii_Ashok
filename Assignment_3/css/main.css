@@ -192,7 +192,7 @@ div.images {
   border-radius: 8px;
 }
 
-.feedback h4{
+.feedback h4 {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
@@ -211,6 +211,7 @@ div.images {
   padding-top: 10px;
   padding-left: 35px;
 }
+
 .place {
   background: #DEDAD6;
   ;
@@ -245,6 +246,7 @@ div.images {
   padding-top: 10px;
   padding-left: 35px;
 }
+
 .message {
   background: #DEDAD6;
   border-radius: 4px;
@@ -255,16 +257,18 @@ div.images {
   padding-top: 10px;
   padding-left: 35px;
 }
+
 .send {
   background: #DFDBD7;
   border-radius: 4px;
   width: 80px;
   height: 30px;
-  margin-left:360px ;
+  margin-left: 360px;
   margin-top: 25px;
   padding-top: 10px;
   padding-left: 35px;
 }
+
 .getintouch h1 {
   width: 80%;
   margin: auto;
@@ -284,6 +288,7 @@ getintouch. h1 {
   padding-left: 100px;
   padding-right: 35px;
 }
+
 div.logos {
   justify-content: left;
   display: flex;
@@ -296,11 +301,13 @@ div.logos {
   margin-left: 300px;
   padding-bottom: 30px
 }
+
 footer {
-    padding: 40px 0;
-    background-color: #322D28;;
-    text-align: center;
-    color: #c7c5c5;
-    font-size: 18px;
-    line-height: 1.4;
-    display: block;
+  padding: 40px 0;
+  background-color: #322D28;
+  ;
+  text-align: center;
+  color: #c7c5c5;
+  font-size: 18px;
+  line-height: 1.4;
+  display: block;
