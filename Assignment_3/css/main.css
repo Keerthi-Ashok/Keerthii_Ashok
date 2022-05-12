@@ -1,19 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:700&display=swap');
 
 body {
-  position: absolute;
-  width: 1024px;
-  height: 2358px;
   background: #DEDAD6;
 }
 
 .header {
   background-image: url(images/img1.png);
   background-size: cover;
-  background-color: rgba(0, 0, 0, 0.25) position: relative;
-  width: 1024px;
-  height: 80px;
-  color: #61564C;
 }
 
 .logo {
@@ -22,12 +15,14 @@ body {
   height: 49px;
   background: url(Logo1.png);
   position: center;
+  padding-left: 42px;
 }
 
 nav {
   display: flex;
   padding-top: 9px;
   padding-left: 8px;
+  padding-right: 42px;
   align-items: center;
 }
 
@@ -60,16 +55,23 @@ nav {
   height: 30px;
 }
 
+.mainimage img {
+  background-size: cover;
+  height: 120vh;
+  justify-content: center;
+}
+
 .maintext h2 {
   position: absolute;
   font-family: 'Roboto';
   font-style: normal;
-  font-size: 60px;
+  font-size: 66px;
   line-height: 77px;
   color: #DEDAD6;
-  top: 465px;
-  left: 290px;
+  top: 880px;
+  left: 730px;
   text-align: center;
+  justify-content:
 }
 
 .tagline {
@@ -81,12 +83,13 @@ nav {
   line-height: 21px;
   text-align: center;
   color: #DEDAD6;
-  top: 535px;
-  left: 278px;
+  top: 960px;
+  left: 740px;
 }
 
 .about {
-  width: 80%;
+  padding-top: 80px;
+  width: 60%;
   margin: auto;
   text-align: center;
 }
@@ -136,8 +139,7 @@ div.images {
   flex-flow: row;
   height: 250px;
   grid-gap: 40px;
-  padding-left: 100px;
-  padding-right: 35px;
+  justify-content: center;
 }
 
 .lable h3 {
@@ -155,9 +157,7 @@ div.images {
   display: inline-block;
   flex-flow: row;
   padding-top: 15px;
-  padding-right: 35px;
   text-align-last: center;
-  margin-left: 20px;
 }
 
 .feedback h1 {
@@ -188,7 +188,7 @@ div.images {
   padding: 8px;
   width: 509px;
   height: 530px;
-  margin-left: 250px;
+  margin-left: 685px;
   border-radius: 8px;
 }
 
@@ -290,15 +290,12 @@ getintouch. h1 {
 }
 
 div.logos {
-  justify-content: left;
+  justify-content: center;
   display: flex;
   flex-flow: row;
   height: 45px;
   grid-gap: 40px;
   padding-top: 30px;
-  padding-left: 100px;
-  padding-right: 35px;
-  margin-left: 300px;
   padding-bottom: 30px
 }
 
